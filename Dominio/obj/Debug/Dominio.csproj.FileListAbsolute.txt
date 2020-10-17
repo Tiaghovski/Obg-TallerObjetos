@@ -1,0 +1,12 @@
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\bin\Debug\Dominio.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\bin\Debug\Dominio.pdb
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\bin\Debug\Dominio.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\bin\Debug\Dominio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache

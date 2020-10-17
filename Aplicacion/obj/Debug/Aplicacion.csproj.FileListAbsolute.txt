@@ -1,0 +1,9 @@
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\bin\Debug\Dominio.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\bin\Debug\Dominio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Aplicacion\obj\Debug\Aplicacion.pdb

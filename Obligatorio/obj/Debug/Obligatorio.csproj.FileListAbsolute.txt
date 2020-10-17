@@ -1,0 +1,178 @@
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Obligatorio.dll.config
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Obligatorio.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Obligatorio.pdb
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csc.exe
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csc.exe.config
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csc.rsp
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csi.exe
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csi.exe.config
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csi.rsp
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.AppContext.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Collections.Immutable.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Console.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.Compression.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.FileSystem.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.Pipes.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Reflection.Metadata.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.AccessControl.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Claims.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.ValueTuple.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XPath.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\vbc.exe
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\vbc.exe.config
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\vbc.rsp
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe.config
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Dominio.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Dominio.pdb
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojAssemblyReference.cache
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CopyComplete
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.dll
+F:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Obligatorio.dll.config
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Obligatorio.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Obligatorio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csc.exe
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csc.exe.config
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csc.rsp
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csi.exe
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csi.exe.config
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\csi.rsp
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.AppContext.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Collections.Immutable.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Console.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.Compression.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.FileSystem.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.IO.Pipes.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Reflection.Metadata.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.AccessControl.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Claims.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.ValueTuple.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XPath.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\vbc.exe
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\vbc.exe.config
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\vbc.rsp
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe.config
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Aplicacion.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Dominio.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Aplicacion.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Dominio.pdb
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojAssemblyReference.cache
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CopyComplete
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.dll
+E:\Taller de Objetos\Obligatorio Taller UML\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Obligatorio.dll.config
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Obligatorio.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Obligatorio.pdb
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\csc.exe
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\csc.exe.config
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\csc.rsp
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\csi.exe
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\csi.exe.config
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\csi.rsp
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.AppContext.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Console.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.Claims.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\vbc.exe
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\vbc.exe.config
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\vbc.rsp
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Aplicacion.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Dominio.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Aplicacion.pdb
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Dominio.pdb
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CopyComplete
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.dll
+C:\Users\Santiago\Desktop\Obligatorio Taller de Objetos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb

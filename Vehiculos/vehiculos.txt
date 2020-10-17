@@ -1,0 +1,4 @@
+HAA 1000@Audi@A1@2001@200Km
+HAA 1050@Chevrolet@Captiva@2011@300Km
+HAA 2073@Ford@Ecosport@2010@250Km
+HAA 3011@Honda@Civic@2010@150Km

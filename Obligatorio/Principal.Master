@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Obligatorio.Principal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Obligatorio</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>        
+        <asp:Label ID="lblMsjBienvenida" runat="server" Text="Bienvenido! Usted está autenticado como:"></asp:Label>
+        <asp:Label ID="lblUsuario" runat="server"></asp:Label>
+        <asp:LinkButton runat="server" id="lbtnCerrarSesion" Text="Cerrar Sesión" OnClick="lbtnCerrarSesion_Click"></asp:LinkButton>
+    </header>
+        <nav>
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Inicio.aspx">Inicio</asp:HyperLink>
+            &nbsp;<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/AdministrarSistema.aspx">Administrar Sistema</asp:HyperLink>
+           
+        </nav>
+        <br />
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+        </asp:ContentPlaceHolder>
+    </div>
+        <footer>
+            <p><b>Todos los derechos reservados ®</b> </p>
+           
+        </footer>
+    </form>
+</body>
+</html>
